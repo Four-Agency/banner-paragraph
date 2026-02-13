@@ -1,0 +1,1671 @@
+[
+	{
+		"clone_url": "git@bitbucket.org:rckt/four-dev.git",
+		"project_name": "Dev",
+		"repository_name": "four-dev",
+		"full_name": "rckt/four-dev"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/4skills-backend.git",
+		"project_name": "Channel4",
+		"repository_name": "4skills-backend",
+		"full_name": "rckt/4skills-backend"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/4skills-frontend.git",
+		"project_name": "Channel4",
+		"repository_name": "4skills-frontend",
+		"full_name": "rckt/4skills-frontend"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/ach-site.git",
+		"project_name": "ACH",
+		"repository_name": "ach-site",
+		"full_name": "rckt/ach-site"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/all4-iam.git",
+		"project_name": "Channel4",
+		"repository_name": "All4 IAM",
+		"full_name": "rckt/all4-iam"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/amex-vitality-calculator.git",
+		"project_name": "AMEX-Vitality",
+		"repository_name": "amex-vitality-calculator",
+		"full_name": "rckt/amex-vitality-calculator"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/amex-vitality-map.git",
+		"project_name": "AMEX-Vitality",
+		"repository_name": "amex-vitality-map",
+		"full_name": "rckt/amex-vitality-map"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/anxiety-cmstemplates.git",
+		"project_name": "Projects",
+		"repository_name": "Anxiety-CMSTemplates",
+		"full_name": "rckt/anxiety-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/app.git",
+		"project_name": "JPOST",
+		"repository_name": "APP",
+		"full_name": "rckt/app"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/architecturefoundation-cmstemplates.git",
+		"project_name": "Projects",
+		"repository_name": "ArchitectureFoundation-CMSTemplates",
+		"full_name": "rckt/architecturefoundation-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bafa-bafa.git",
+		"project_name": "BAFA",
+		"repository_name": "BAFA-BAFA",
+		"full_name": "rckt/bafa-bafa"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bafa-cmstemplates.git",
+		"project_name": "BAFA",
+		"repository_name": "BAFA-CMSTemplates",
+		"full_name": "rckt/bafa-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bafa-members-v2.git",
+		"project_name": "BAFA",
+		"repository_name": "BAFA-Members-V2",
+		"full_name": "rckt/bafa-members-v2"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bbc-100.git",
+		"project_name": "BBC",
+		"repository_name": "bbc-100",
+		"full_name": "rckt/bbc-100"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bbc-connectedstudio2013.git",
+		"project_name": "Projects",
+		"repository_name": "BBC-ConnectedStudio2013",
+		"full_name": "rckt/bbc-connectedstudio2013"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bbc-countryfile-openmaptiles.git",
+		"project_name": "BBC",
+		"repository_name": "bbc-countryfile-openmaptiles",
+		"full_name": "rckt/bbc-countryfile-openmaptiles"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bbc-countryfileplantbritain.git",
+		"project_name": "BBC",
+		"repository_name": "BBC-CountryfilePlantBritain",
+		"full_name": "rckt/bbc-countryfileplantbritain"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bbc-countryfilewildbritain.git",
+		"project_name": "BBC",
+		"repository_name": "BBC-CountryfileWildBritain",
+		"full_name": "rckt/bbc-countryfilewildbritain"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bbc-creativity.git",
+		"project_name": "BBC",
+		"repository_name": "BBC-Creativity",
+		"full_name": "rckt/bbc-creativity"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bbc-creativitysurvey.git",
+		"project_name": "BBC",
+		"repository_name": "BBC-CreativitySurvey",
+		"full_name": "rckt/bbc-creativitysurvey"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bbc-glastonbury2017.git",
+		"project_name": "BBC",
+		"repository_name": "BBC-Glastonbury2017",
+		"full_name": "rckt/bbc-glastonbury2017"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bbc-imaydestroyyou360.git",
+		"project_name": "I May Destroy You",
+		"repository_name": "BBC-IMayDestroyYou360",
+		"full_name": "rckt/bbc-imaydestroyyou360"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bbc-irunfor.git",
+		"project_name": "BBC",
+		"repository_name": "BBC-IRunFor",
+		"full_name": "rckt/bbc-irunfor"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bbc-iwonder-calories.git",
+		"project_name": "Projects",
+		"repository_name": "BBC-iWonder-Calories",
+		"full_name": "rckt/bbc-iwonder-calories"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bbc-lineofdutytech.git",
+		"project_name": "Projects",
+		"repository_name": "BBC-LineOfDutyTech",
+		"full_name": "rckt/bbc-lineofdutytech"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bbc-peakyblindersstaredown.git",
+		"project_name": "BBC",
+		"repository_name": "BBC - PeakyBlindersStaredown",
+		"full_name": "rckt/bbc-peakyblindersstaredown"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bbc-rapmapapp.git",
+		"project_name": "BBC",
+		"repository_name": "BBC-RapMapApp",
+		"full_name": "rckt/bbc-rapmapapp"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bbc-rewind-dataportal.git",
+		"project_name": "BBC",
+		"repository_name": "BBC-Rewind-DataPortal",
+		"full_name": "rckt/bbc-rewind-dataportal"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bbc-secretofhappiness.git",
+		"project_name": "BBC",
+		"repository_name": "BBC-SecretOfHappiness",
+		"full_name": "rckt/bbc-secretofhappiness"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bbc-sorrynotsorry.git",
+		"project_name": "BBC",
+		"repository_name": "BBC-SorryNotSorry",
+		"full_name": "rckt/bbc-sorrynotsorry"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bbc-thepursuitofselflove.git",
+		"project_name": "BBC",
+		"repository_name": "BBC-ThePursuitOfSelfLove",
+		"full_name": "rckt/bbc-thepursuitofselflove"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bbc-tw-globalchange.git",
+		"project_name": "BBC",
+		"repository_name": "BBC-TW-GlobalChange",
+		"full_name": "rckt/bbc-tw-globalchange"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bbc-your-festive-schedule.git",
+		"project_name": "BBC",
+		"repository_name": "BBC-your-festive-schedule",
+		"full_name": "rckt/bbc-your-festive-schedule"
+	},
+{
+		"clone_url": "git@bitbucket.org:rckt/beano-games.git",
+		"project_name": "Projects",
+		"repository_name": "Beano-Games",
+		"full_name": "rckt/beano-games"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/benjaminthomas-cmstemplates.git",
+		"project_name": "Projects",
+		"repository_name": "BenjaminThomas-CMSTemplates",
+		"full_name": "rckt/benjaminthomas-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/boxxerworld-shopify-backend.git",
+		"project_name": "Boxxerworld",
+		"repository_name": "boxxerworld-shopify-backend",
+		"full_name": "rckt/boxxerworld-shopify-backend"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/boxxerworld-shopify-frontend.git",
+		"project_name": "Boxxerworld",
+		"repository_name": "boxxerworld-shopify-frontend",
+		"full_name": "rckt/boxxerworld-shopify-frontend"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/carolvorderman-vordertracker.git",
+		"project_name": "Projects",
+		"repository_name": "CarolVorderman-VorderTracker",
+		"full_name": "rckt/carolvorderman-vordertracker"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/change-maker.git",
+		"project_name": "XR Stories",
+		"repository_name": "Change Maker",
+		"full_name": "rckt/change-maker"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-24hoursinaande-tour.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-24HoursInAandE-Tour",
+		"full_name": "rckt/channel4-24hoursinaande-tour"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-4d.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-4D",
+		"full_name": "rckt/channel4-4d"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-4talks.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-4Talks",
+		"full_name": "rckt/channel4-4talks"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-4talkseventsplatform.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-4TalksEventsPlatform",
+		"full_name": "rckt/channel4-4talkseventsplatform"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-aliens.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-Aliens",
+		"full_name": "rckt/channel4-aliens"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-all4-launch.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-All4-Launch",
+		"full_name": "rckt/channel4-all4-launch"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-aminormal.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-AmINormal",
+		"full_name": "rckt/channel4-aminormal"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-astronauts.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-Astronauts",
+		"full_name": "rckt/channel4-astronauts"
+	},
+{
+		"clone_url": "git@bitbucket.org:rckt/channel4-autismtest.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-AutismTest",
+		"full_name": "rckt/channel4-autismtest"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-babylon-statspinner.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-Babylon-StatSpinner",
+		"full_name": "rckt/channel4-babylon-statspinner"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-babylon-voting.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-Babylon-Voting",
+		"full_name": "rckt/channel4-babylon-voting"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-bestbefore.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-BestBefore",
+		"full_name": "rckt/channel4-bestbefore"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-bionicman.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-BionicMan",
+		"full_name": "rckt/channel4-bionicman"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-blackbusinessbreakthrough.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-BlackBusinessBreakthrough",
+		"full_name": "rckt/channel4-blackbusinessbreakthrough"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-cartierracing.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-CartierRacing",
+		"full_name": "rckt/channel4-cartierracing"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-cleartheshelter.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-ClearTheShelter",
+		"full_name": "rckt/channel4-cleartheshelter"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-corporatepitch.git",
+		"project_name": "Projects",
+		"repository_name": "Channel4-CorporatePitch",
+		"full_name": "rckt/channel4-corporatepitch"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-cucumberbananatofu.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-CucumberBananaTofu",
+		"full_name": "rckt/channel4-cucumberbananatofu"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-darts.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-Darts",
+		"full_name": "rckt/channel4-darts"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-dataanalyticswordpress.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-DataAnalyticsWordpress",
+		"full_name": "rckt/channel4-dataanalyticswordpress"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-diversityinadvertising.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-DiversityInAdvertising",
+		"full_name": "rckt/channel4-diversityinadvertising"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-embarrassingbodies.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-EmbarrassingBodies",
+		"full_name": "rckt/channel4-embarrassingbodies"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-endoftheworld.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-EndOfTheWorld",
+		"full_name": "rckt/channel4-endoftheworld"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-estings.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-EStings",
+		"full_name": "rckt/channel4-estings"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-fairyhub.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-FairyHub",
+		"full_name": "rckt/channel4-fairyhub"
+	},
+{
+		"clone_url": "git@bitbucket.org:rckt/channel4-fireengine.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-FireEngine",
+		"full_name": "rckt/channel4-fireengine"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-greenhouse.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-Greenhouse",
+		"full_name": "rckt/channel4-greenhouse"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-humans-seriesthree.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-Humans-SeriesThree",
+		"full_name": "rckt/channel4-humans-seriesthree"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-humans.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-Humans",
+		"full_name": "rckt/channel4-humans"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-inspiringsuccess.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-InspiringSuccess",
+		"full_name": "rckt/channel4-inspiringsuccess"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-invite.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-Invite",
+		"full_name": "rckt/channel4-invite"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-jamiessugarrush.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-JamiesSugarRush",
+		"full_name": "rckt/channel4-jamiessugarrush"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-kissmefirst.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-KissMeFirst",
+		"full_name": "rckt/channel4-kissmefirst"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-madeinchelsea.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-MadeInChelsea",
+		"full_name": "rckt/channel4-madeinchelsea"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-madfatdiary-series2.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-MadFatDiary-Series2",
+		"full_name": "rckt/channel4-madfatdiary-series2"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-madfatdiary.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-MadFatDiary",
+		"full_name": "rckt/channel4-madfatdiary"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-maps.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-Maps",
+		"full_name": "rckt/channel4-maps"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-mashup-2012.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-MashUp-2012",
+		"full_name": "rckt/channel4-mashup-2012"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-matingseason.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-MatingSeason",
+		"full_name": "rckt/channel4-matingseason"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-musicamnesty-cmstemplates.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-MusicAmnesty-CMSTemplates",
+		"full_name": "rckt/channel4-musicamnesty-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-musicamnesty.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-MusicAmnesty",
+		"full_name": "rckt/channel4-musicamnesty"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-newsandweather.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-NewsAndWeather",
+		"full_name": "rckt/channel4-newsandweather"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-open4.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-Open4",
+		"full_name": "rckt/channel4-open4"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-open4v2.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-Open4V2",
+		"full_name": "rckt/channel4-open4v2"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-planecrash.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-PlaneCrash",
+		"full_name": "rckt/channel4-planecrash"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-projectx.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-ProjectX",
+		"full_name": "rckt/channel4-projectx"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-psychopathy.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-Psychopathy",
+		"full_name": "rckt/channel4-psychopathy"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-randomacts.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-RandomActs",
+		"full_name": "rckt/channel4-randomacts"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-riiip.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-RIIIP",
+		"full_name": "rckt/channel4-riiip"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-snowmail-template.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-Snowmail-Template",
+		"full_name": "rckt/channel4-snowmail-template"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-stephenhawking.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-StephenHawking",
+		"full_name": "rckt/channel4-stephenhawking"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-thebigbanguni-certificate-frontend.git",
+		"project_name": "Channel4",
+		"repository_name": "channel4-thebigbanguni-certificate-frontend",
+		"full_name": "rckt/channel4-thebigbanguni-certificate-frontend"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-thebigbanguni-certificate-printer.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-TheBigBangUni-Certificate-Printer",
+		"full_name": "rckt/channel4-thebigbanguni-certificate-printer"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-themilltweets.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-TheMillTweets",
+		"full_name": "rckt/channel4-themilltweets"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-uktribes.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-UKTribes",
+		"full_name": "rckt/channel4-uktribes"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-unreportedworld.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-UnreportedWorld",
+		"full_name": "rckt/channel4-unreportedworld"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-utopia-series2.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-Utopia-Series2",
+		"full_name": "rckt/channel4-utopia-series2"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-voting.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-Voting",
+		"full_name": "rckt/channel4-voting"
+	},
+{
+		"clone_url": "git@bitbucket.org:rckt/europeanlungfoundation-aus-occupationalhealth.git",
+		"project_name": "ELF",
+		"repository_name": "EuropeanLungFoundation-AUS-OccupationalHealth",
+		"full_name": "rckt/europeanlungfoundation-aus-occupationalhealth"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/europeanlungfoundation-campaignmonitor-cli.git",
+		"project_name": "ELF",
+		"repository_name": "EuropeanLungFoundation-CampaignMonitor-CLI",
+		"full_name": "rckt/europeanlungfoundation-campaignmonitor-cli"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/europeanlungfoundation-cmstemplates.git",
+		"project_name": "ELF",
+		"repository_name": "EuropeanLungFoundation-CMSTemplates",
+		"full_name": "rckt/europeanlungfoundation-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/europeanlungfoundation-covid19quiz.git",
+		"project_name": "ELF",
+		"repository_name": "EuropeanLungFoundation-Covid19Quiz",
+		"full_name": "rckt/europeanlungfoundation-covid19quiz"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/europeanlungfoundation-emailtemplates.git",
+		"project_name": "ELF",
+		"repository_name": "EuropeanLungFoundation-EmailTemplates",
+		"full_name": "rckt/europeanlungfoundation-emailtemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/europeanlungfoundation-epaptemplate.git",
+		"project_name": "ELF",
+		"repository_name": "EuropeanLungFoundation-EPAPTemplate",
+		"full_name": "rckt/europeanlungfoundation-epaptemplate"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/europeanlungfoundation-game.git",
+		"project_name": "ELF",
+		"repository_name": "EuropeanLungFoundation-Game",
+		"full_name": "rckt/europeanlungfoundation-game"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/europeanlungfoundation-hlflquiz.git",
+		"project_name": "ELF",
+		"repository_name": "EuropeanLungFoundation-HLfLQuiz",
+		"full_name": "rckt/europeanlungfoundation-hlflquiz"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/europeanlungfoundation-mycrm-campainmonitor-bridge.git",
+		"project_name": "ELF",
+		"repository_name": "EuropeanLungFoundation-MyCRM-CampainMonitor-Bridge",
+		"full_name": "rckt/europeanlungfoundation-mycrm-campainmonitor-bridge"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/europeanlungfoundation-occupationalhealth.git",
+		"project_name": "ELF",
+		"repository_name": "EuropeanLungFoundation-OccupationalHealth",
+		"full_name": "rckt/europeanlungfoundation-occupationalhealth"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/europeanlungfoundation-patientpriorities.git",
+		"project_name": "ELF",
+		"repository_name": "EuropeanLungFoundation-PatientPriorities",
+		"full_name": "rckt/europeanlungfoundation-patientpriorities"
+	},
+{
+		"clone_url": "git@bitbucket.org:rckt/heathrow-movie-tour.git",
+		"project_name": "Projects",
+		"repository_name": "heathrow-movie-tour",
+		"full_name": "rckt/heathrow-movie-tour"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/hollisco-cmstemplates.git",
+		"project_name": "Projects",
+		"repository_name": "HollisCo-CMSTemplates",
+		"full_name": "rckt/hollisco-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/hollowayfriendly-cmstemplates.git",
+		"project_name": "Projects",
+		"repository_name": "HollowayFriendly-CMSTemplates",
+		"full_name": "rckt/hollowayfriendly-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/iwm-stories-microsite.git",
+		"project_name": "Imperial War Museum",
+		"repository_name": "IWM-Stories-Microsite",
+		"full_name": "rckt/iwm-stories-microsite"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/iwm-streamdeck-plugin.git",
+		"project_name": "Imperial War Museum",
+		"repository_name": "IWM-Streamdeck-Plugin",
+		"full_name": "rckt/iwm-streamdeck-plugin"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/iwm-video-player.git",
+		"project_name": "Imperial War Museum",
+		"repository_name": "IWM-Video-Player",
+		"full_name": "rckt/iwm-video-player"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/joi-vx.git",
+		"project_name": "Joi Polloi",
+		"repository_name": "Joi-VX",
+		"full_name": "rckt/joi-vx"
+	},
+{
+		"clone_url": "git@bitbucket.org:rckt/joipolloi-emailfooters.git",
+		"project_name": "Joi Polloi",
+		"repository_name": "JoiPolloi-EmailFooters",
+		"full_name": "rckt/joipolloi-emailfooters"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/joipolloi-phasergames.git",
+		"project_name": "Dev",
+		"repository_name": "JoiPolloi-PhaserGames",
+		"full_name": "rckt/joipolloi-phasergames"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/joipolloi-pipetests.git",
+		"project_name": "Joi Polloi",
+		"repository_name": "JoiPolloi-PipeTests",
+		"full_name": "rckt/joipolloi-pipetests"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/joipolloi-projectcodingstandards.git",
+		"project_name": "Projects",
+		"repository_name": "JoiPolloi-ProjectCodingStandards",
+		"full_name": "rckt/joipolloi-projectcodingstandards"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/joipolloi-stromdeploymenttest.git",
+		"project_name": "Joi Polloi",
+		"repository_name": "JoiPolloi-StromDeploymentTest",
+		"full_name": "rckt/joipolloi-stromdeploymenttest"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/joipolloi-takepart-salessite.git",
+		"project_name": "Joi Polloi",
+		"repository_name": "JoiPolloi-TakePart-SalesSite",
+		"full_name": "rckt/joipolloi-takepart-salessite"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/joipolloi-webflowsite.git",
+		"project_name": "Joi Polloi",
+		"repository_name": "JoiPolloi-WebflowSite",
+		"full_name": "rckt/joipolloi-webflowsite"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/joipolloi-website-holdingpage.git",
+		"project_name": "Projects",
+		"repository_name": "JoiPolloi-Website-HoldingPage",
+		"full_name": "rckt/joipolloi-website-holdingpage"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/joipolloi-website.git",
+		"project_name": "Joi Polloi",
+		"repository_name": "JoiPolloi-Website",
+		"full_name": "rckt/joipolloi-website"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/joipolloi-website2019.git",
+		"project_name": "Joi Polloi",
+		"repository_name": "JoiPolloi-Website2019",
+		"full_name": "rckt/joipolloi-website2019"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/joipolloi-website2020.git",
+		"project_name": "Joi Polloi",
+		"repository_name": "JoiPolloi-Website2020",
+		"full_name": "rckt/joipolloi-website2020"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/juicelimited-website.git",
+		"project_name": "Juice",
+		"repository_name": "JuiceLimited-Website",
+		"full_name": "rckt/juicelimited-website"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/juicelimited.git",
+		"project_name": "Juice",
+		"repository_name": "JuiceLimited",
+		"full_name": "rckt/juicelimited"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/kingscamp-mobilebooking.git",
+		"project_name": "Projects",
+		"repository_name": "KingsCamp-MobileBooking",
+		"full_name": "rckt/kingscamp-mobilebooking"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/kyp-cmstemplates.git",
+		"project_name": "Projects",
+		"repository_name": "KYP-CMSTemplates",
+		"full_name": "rckt/kyp-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/liad-logger.git",
+		"project_name": "Flying Object",
+		"repository_name": "liad-logger",
+		"full_name": "rckt/liad-logger"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/loveproductions-gbbo-app-copy.git",
+		"project_name": "Joi Polloi",
+		"repository_name": "LoveProductions-GBBO-App-Copy",
+		"full_name": "rckt/loveproductions-gbbo-app-copy"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/maverick-microsoftmicrosite.git",
+		"project_name": "Projects",
+		"repository_name": "Maverick-MicrosoftMicrosite",
+		"full_name": "rckt/maverick-microsoftmicrosite"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/mercurycenter-tour.git",
+		"project_name": "Projects",
+		"repository_name": "MercuryCenter-Tour",
+		"full_name": "rckt/mercurycenter-tour"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/miro-test-email.git",
+		"project_name": "Joi Polloi",
+		"repository_name": "miro test email",
+		"full_name": "rckt/miro-test-email"
+	},
+{
+		"clone_url": "git@bitbucket.org:rckt/museums-computer-group-amends.git",
+		"project_name": "Projects",
+		"repository_name": "museums-computer-group-amends",
+		"full_name": "rckt/museums-computer-group-amends"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/museums-sheffield-wifi-landing-page.git",
+		"project_name": "Projects",
+		"repository_name": "Museums Sheffield - WiFi Landing Page",
+		"full_name": "rckt/museums-sheffield-wifi-landing-page"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/museumsheffield-mailchimp-v2.git",
+		"project_name": "Projects",
+		"repository_name": "museumsheffield - mailchimp - v2",
+		"full_name": "rckt/museumsheffield-mailchimp-v2"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/museumssheffield-cmstemplates.git",
+		"project_name": "Projects",
+		"repository_name": "MuseumsSheffield-CMSTemplates",
+		"full_name": "rckt/museumssheffield-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/museumssheffield-mailchimp.git",
+		"project_name": "Projects",
+		"repository_name": "MuseumsSheffield-Mailchimp",
+		"full_name": "rckt/museumssheffield-mailchimp"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/museumssheffield-mobilehomepages.git",
+		"project_name": "Projects",
+		"repository_name": "MuseumsSheffield-MobileHomepages",
+		"full_name": "rckt/museumssheffield-mobilehomepages"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/museumssheffield-shopify.git",
+		"project_name": "Projects",
+		"repository_name": "MuseumsSheffield-Shopify",
+		"full_name": "rckt/museumssheffield-shopify"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/n8research-cmstemplates.git",
+		"project_name": "Projects",
+		"repository_name": "N8Research-CMSTemplates",
+		"full_name": "rckt/n8research-cmstemplates"
+	},
+{
+		"clone_url": "git@bitbucket.org:rckt/twentytwoshop-shopify.git",
+		"project_name": "Projects",
+		"repository_name": "TwentyTwoShop-Shopify",
+		"full_name": "rckt/twentytwoshop-shopify"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/twitter-timeline-wordpress-plugin.git",
+		"project_name": "Joi Polloi",
+		"repository_name": "Twitter-Timeline-Wordpress-Plugin",
+		"full_name": "rckt/twitter-timeline-wordpress-plugin"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/uhi-managementschool-codeigniter.git",
+		"project_name": "Projects",
+		"repository_name": "UHI-ManagementSchool-CodeIgniter",
+		"full_name": "rckt/uhi-managementschool-codeigniter"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/uow-novel-survey-wordpress.git",
+		"project_name": "University of Wolverhampton",
+		"repository_name": "uow-novel-survey-wordpress",
+		"full_name": "rckt/uow-novel-survey-wordpress"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/uow-novel-survey.git",
+		"project_name": "University of Wolverhampton",
+		"repository_name": "UoW-Novel-Survey",
+		"full_name": "rckt/uow-novel-survey"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/vagrantskeleton.git",
+		"project_name": "Dev",
+		"repository_name": "VagrantSkeleton",
+		"full_name": "rckt/vagrantskeleton"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/vermilion-cmstemplates.git",
+		"project_name": "Projects",
+		"repository_name": "Vermilion-CMSTemplates",
+		"full_name": "rckt/vermilion-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/vindolandatrust-romanarmymuseum.git",
+		"project_name": "Vindolanda Trust",
+		"repository_name": "VindolandaTrust-RomanArmyMuseum",
+		"full_name": "rckt/vindolandatrust-romanarmymuseum"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/virtual-events.git",
+		"project_name": "Joi Polloi",
+		"repository_name": "Virtual-Events",
+		"full_name": "rckt/virtual-events"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/voltagetv-site.git",
+		"project_name": "Projects",
+		"repository_name": "VoltageTV-site",
+		"full_name": "rckt/voltagetv-site"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/vorders-3d.git",
+		"project_name": "Vorders",
+		"repository_name": "Vorders-3D",
+		"full_name": "rckt/vorders-3d"
+	},
+{
+		"clone_url": "git@bitbucket.org:rckt/women-treatment-landing-page.git",
+		"project_name": "GordonMoody",
+		"repository_name": "Women-Treatment-Landing-Page",
+		"full_name": "rckt/women-treatment-landing-page"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/wow-barn-logging.git",
+		"project_name": "The Space",
+		"repository_name": "Wow Barn Logging",
+		"full_name": "rckt/wow-barn-logging"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/wow-barn.git",
+		"project_name": "The Space",
+		"repository_name": "Wow Barn",
+		"full_name": "rckt/wow-barn"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/wqxr-wqxr.git",
+		"project_name": "Projects",
+		"repository_name": "WQXR-WQXR",
+		"full_name": "rckt/wqxr-wqxr"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/xjtlu-gaokao.git",
+		"project_name": "XJTLU",
+		"repository_name": "XJTLU-Gaokao",
+		"full_name": "rckt/xjtlu-gaokao"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/xjtlu-modxtemplates.git",
+		"project_name": "Projects",
+		"repository_name": "XJTLU-MODXTemplates",
+		"full_name": "rckt/xjtlu-modxtemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/xjtlu-sedona.git",
+		"project_name": "Projects",
+		"repository_name": "XJTLU-Sedona",
+		"full_name": "rckt/xjtlu-sedona"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/xr-safari.git",
+		"project_name": "XR Stories",
+		"repository_name": "xr-safari",
+		"full_name": "rckt/xr-safari"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/youngestmedia-website.git",
+		"project_name": "YoungestMedia",
+		"repository_name": "YoungestMedia-Website",
+		"full_name": "rckt/youngestmedia-website"
+	},
+{
+		"clone_url": "git@bitbucket.org:rckt/thespace-boyinthebook-storytool.git",
+		"project_name": "Joi Polloi",
+		"repository_name": "TheSpace-BoyInTheBook-StoryTool",
+		"full_name": "rckt/thespace-boyinthebook-storytool"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/thespace-boyinthebook-v2.git",
+		"project_name": "Joi Polloi",
+		"repository_name": "TheSpace-BoyInTheBook-v2",
+		"full_name": "rckt/thespace-boyinthebook-v2"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/thespace-boyinthebook-v3.git",
+		"project_name": "Joi Polloi",
+		"repository_name": "TheSpace-BoyInTheBook-v3",
+		"full_name": "rckt/thespace-boyinthebook-v3"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/thespace-boyinthebook.git",
+		"project_name": "Projects",
+		"repository_name": "TheSpace-BoyInTheBook",
+		"full_name": "rckt/thespace-boyinthebook"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tinderfoundation-annualreview.git",
+		"project_name": "Projects",
+		"repository_name": "TinderFoundation-AnnualReview",
+		"full_name": "rckt/tinderfoundation-annualreview"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/touchlightgenetics-modxtemplate.git",
+		"project_name": "Projects",
+		"repository_name": "TouchlightGenetics-MODXTemplate",
+		"full_name": "rckt/touchlightgenetics-modxtemplate"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/the-island.git",
+		"project_name": "The Island",
+		"repository_name": "The Island",
+		"full_name": "rckt/the-island"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tedbrewerviolins-static.git",
+		"project_name": "Projects",
+		"repository_name": "TedBrewerViolins-Static",
+		"full_name": "rckt/tedbrewerviolins-static"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/terraform-cloud.git",
+		"project_name": "Joi Polloi",
+		"repository_name": "Terraform Cloud",
+		"full_name": "rckt/terraform-cloud"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tchc-website-cmstemplates.git",
+		"project_name": "Projects",
+		"repository_name": "TCHC-Website-CMSTemplates",
+		"full_name": "rckt/tchc-website-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tchc-email-templates.git",
+		"project_name": "The Island",
+		"repository_name": "tchc-email-templates",
+		"full_name": "rckt/tchc-email-templates"
+	},
+{
+		"clone_url": "git@bitbucket.org:rckt/studiolambert-thecircle-reactnativewrapper.git",
+		"project_name": "Studio Lambert",
+		"repository_name": "StudioLambert-TheCircle-ReactNativeWrapper",
+		"full_name": "rckt/studiolambert-thecircle-reactnativewrapper"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/studiolambert-thecircle-tectonicplugin.git",
+		"project_name": "Studio Lambert",
+		"repository_name": "StudioLambert-TheCircle-TectonicPlugin",
+		"full_name": "rckt/studiolambert-thecircle-tectonicplugin"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/summer-in-the-square.git",
+		"project_name": "BakerStreet",
+		"repository_name": "Summer in the Square",
+		"full_name": "rckt/summer-in-the-square"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/takefivefraud.git",
+		"project_name": "TakeFive",
+		"repository_name": "TakeFiveFraud",
+		"full_name": "rckt/takefivefraud"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tatehindle-websitetemplates.git",
+		"project_name": "Projects",
+		"repository_name": "TateHindle-WebsiteTemplates",
+		"full_name": "rckt/tatehindle-websitetemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tchc-annualreport2016.git",
+		"project_name": "Projects",
+		"repository_name": "TCHC-AnnualReport2016",
+		"full_name": "rckt/tchc-annualreport2016"
+	},
+{
+		"clone_url": "git@bitbucket.org:rckt/studiolambert-thecircle-consumerapp.git",
+		"project_name": "Studio Lambert",
+		"repository_name": "StudioLambert-TheCircle-ConsumerApp",
+		"full_name": "rckt/studiolambert-thecircle-consumerapp"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/studiolambert-thecircle-consumerappcms.git",
+		"project_name": "Studio Lambert",
+		"repository_name": "StudioLambert-TheCircle-ConsumerAppCMS",
+		"full_name": "rckt/studiolambert-thecircle-consumerappcms"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/studiolambert-thecircle-infrastructure.git",
+		"project_name": "Studio Lambert",
+		"repository_name": "StudioLambert-TheCircle-Infrastructure",
+		"full_name": "rckt/studiolambert-thecircle-infrastructure"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/studiolambert-thecircle-nativeappandroid.git",
+		"project_name": "Studio Lambert",
+		"repository_name": "StudioLambert-TheCircle-NativeAppAndroid",
+		"full_name": "rckt/studiolambert-thecircle-nativeappandroid"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/studiolambert-thecircle-nativeappios.git",
+		"project_name": "Studio Lambert",
+		"repository_name": "StudioLambert-TheCircle-NativeAppIOS",
+		"full_name": "rckt/studiolambert-thecircle-nativeappios"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/studiolambert-thecircle-productionclient.git",
+		"project_name": "Studio Lambert",
+		"repository_name": "StudioLambert-TheCircle-ProductionClient",
+		"full_name": "rckt/studiolambert-thecircle-productionclient"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/studiolambert-thecircle-productiontool.git",
+		"project_name": "Studio Lambert",
+		"repository_name": "StudioLambert-TheCircle-ProductionTool",
+		"full_name": "rckt/studiolambert-thecircle-productiontool"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/studiolambert-thecircle-productiontoolproto.git",
+		"project_name": "Studio Lambert",
+		"repository_name": "StudioLambert-TheCircle-ProductionToolProto",
+		"full_name": "rckt/studiolambert-thecircle-productiontoolproto"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/electron-vite-skeleton.git",
+		"project_name": "Skeletons",
+		"repository_name": "Electron-Vite-Skeleton",
+		"full_name": "rckt/electron-vite-skeleton"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/four-drupal-skeleton.git",
+		"project_name": "Skeletons",
+		"repository_name": "four-drupal-skeleton",
+		"full_name": "rckt/four-drupal-skeleton"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/four-electron-react-skeleton.git",
+		"project_name": "Skeletons",
+		"repository_name": "four-electron-react-skeleton",
+		"full_name": "rckt/four-electron-react-skeleton"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/four-museum-skeleton.git",
+		"project_name": "Skeletons",
+		"repository_name": "four-museum-skeleton",
+		"full_name": "rckt/four-museum-skeleton"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/four-vite-skeleton.git",
+		"project_name": "Skeletons",
+		"repository_name": "Four-Vite-Skeleton",
+		"full_name": "rckt/four-vite-skeleton"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/headless-drupal-next-client.git",
+		"project_name": "Skeletons",
+		"repository_name": "headless-drupal-next-client",
+		"full_name": "rckt/headless-drupal-next-client"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/headless-drupal-next-cms.git",
+		"project_name": "Skeletons",
+		"repository_name": "headless-drupal-next-cms",
+		"full_name": "rckt/headless-drupal-next-cms"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/network-rail-wellbeing-live-drupal-9.git",
+		"project_name": "Network Rail Wellbeing Live",
+		"repository_name": "Network Rail Wellbeing Live Drupal 9",
+		"full_name": "rckt/network-rail-wellbeing-live-drupal-9"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/rail-wellbeing-live-aws-cdk-stack.git",
+		"project_name": "Network Rail Wellbeing Live",
+		"repository_name": "rail-wellbeing-live-aws-cdk-stack",
+		"full_name": "rckt/rail-wellbeing-live-aws-cdk-stack"
+	},
+{
+		"clone_url": "git@bitbucket.org:rckt/bcrt-shopifywebhook.git",
+		"project_name": "Projects",
+		"repository_name": "BCRT-ShopifyWebHook",
+		"full_name": "rckt/bcrt-shopifywebhook"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/citc-ios-app.git",
+		"project_name": "Projects",
+		"repository_name": "CITC-iOS-App",
+		"full_name": "rckt/citc-ios-app"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/davidmorleyarchitects-cmstemplates.git",
+		"project_name": "Projects",
+		"repository_name": "DavidMorleyArchitects-CMSTemplates",
+		"full_name": "rckt/davidmorleyarchitects-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/doncasterdeaftrust-cmstemplates.git",
+		"project_name": "Projects",
+		"repository_name": "DoncasterDeafTrust-CMSTemplates",
+		"full_name": "rckt/doncasterdeaftrust-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/elevendesign-cmstemplates.git",
+		"project_name": "Projects",
+		"repository_name": "ElevenDesign-CMSTemplates",
+		"full_name": "rckt/elevendesign-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/eyammuseum-cmstemplates.git",
+		"project_name": "Projects",
+		"repository_name": "EyamMuseum-CMSTemplates",
+		"full_name": "rckt/eyammuseum-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/firstactuarial-cmstemplates.git",
+		"project_name": "Projects",
+		"repository_name": "FirstActuarial-CMSTemplates",
+		"full_name": "rckt/firstactuarial-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/gleam-sacconejolyadvent.git",
+		"project_name": "Projects",
+		"repository_name": "Gleam-SacconeJolyAdvent",
+		"full_name": "rckt/gleam-sacconejolyadvent"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/nfrr-regretotron.git",
+		"project_name": "Projects",
+		"repository_name": "NFRR-Regretotron",
+		"full_name": "rckt/nfrr-regretotron"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/nms-ripitup.git",
+		"project_name": "Projects",
+		"repository_name": "NMS-RipItUp",
+		"full_name": "rckt/nms-ripitup"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/nrm-timeline-app.git",
+		"project_name": "Projects",
+		"repository_name": "NRM-Timeline-App",
+		"full_name": "rckt/nrm-timeline-app"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/nrm-timeline-site.git",
+		"project_name": "Projects",
+		"repository_name": "NRM-Timeline-Site",
+		"full_name": "rckt/nrm-timeline-site"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/oceanoutdoor-360.git",
+		"project_name": "Projects",
+		"repository_name": "OceanOutdoor-360",
+		"full_name": "rckt/oceanoutdoor-360"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/optimal.git",
+		"project_name": "Projects",
+		"repository_name": "optimal",
+		"full_name": "rckt/optimal"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/ourfavouriteplaces-cmstemplates.git",
+		"project_name": "Projects",
+		"repository_name": "OurFavouritePlaces-CMSTemplates",
+		"full_name": "rckt/ourfavouriteplaces-cmstemplates"
+	},
+{
+		"clone_url": "git@bitbucket.org:rckt/ovation-encore.git",
+		"project_name": "Projects",
+		"repository_name": "Ovation-Encore",
+		"full_name": "rckt/ovation-encore"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/petemckee-cmstemplates.git",
+		"project_name": "Projects",
+		"repository_name": "PeteMckee-CMSTemplates",
+		"full_name": "rckt/petemckee-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/petemckee-shopify.git",
+		"project_name": "Projects",
+		"repository_name": "PeteMcKee-Shopify",
+		"full_name": "rckt/petemckee-shopify"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/projectskeleton.git",
+		"project_name": "Dev",
+		"repository_name": "ProjectSkeleton",
+		"full_name": "rckt/projectskeleton"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/rachealglegg-staticsite.git",
+		"project_name": "Projects",
+		"repository_name": "RachealGlegg-StaticSite",
+		"full_name": "rckt/rachealglegg-staticsite"
+	},
+{
+		"clone_url": "git@bitbucket.org:rckt/rckt-balloondashboard.git",
+		"project_name": "Projects",
+		"repository_name": "Rckt-BalloonDashboard",
+		"full_name": "rckt/rckt-balloondashboard"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/rckt-christmas.git",
+		"project_name": "Projects",
+		"repository_name": "Rckt-Christmas",
+		"full_name": "rckt/rckt-christmas"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/rckt-cmstemplates.git",
+		"project_name": "Projects",
+		"repository_name": "Rckt-CMSTemplates",
+		"full_name": "rckt/rckt-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/rckt-freeagentextension.git",
+		"project_name": "Projects",
+		"repository_name": "Rckt-FreeAgentExtension",
+		"full_name": "rckt/rckt-freeagentextension"
+	},
+{
+		"clone_url": "git@bitbucket.org:rckt/rckt-newasana.git",
+		"project_name": "Projects",
+		"repository_name": "Rckt-NewAsana",
+		"full_name": "rckt/rckt-newasana"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/rckt-partysite.git",
+		"project_name": "Projects",
+		"repository_name": "Rckt-PartySite",
+		"full_name": "rckt/rckt-partysite"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/rckt-trafficlights.git",
+		"project_name": "Projects",
+		"repository_name": "Rckt-TrafficLights",
+		"full_name": "rckt/rckt-trafficlights"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/rckt-website.git",
+		"project_name": "Projects",
+		"repository_name": "Rckt-Website",
+		"full_name": "rckt/rckt-website"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/rcktflexitime.git",
+		"project_name": "Projects",
+		"repository_name": "RcktFlexitime",
+		"full_name": "rckt/rcktflexitime"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/rocket-2016website-cmstemplates.git",
+		"project_name": "Projects",
+		"repository_name": "Rocket-2016Website-CMSTemplates",
+		"full_name": "rckt/rocket-2016website-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/safeatlast-modxtemplates.git",
+		"project_name": "Projects",
+		"repository_name": "SafeAtLast-MODXTemplates",
+		"full_name": "rckt/safeatlast-modxtemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/sheffieldachesandpains-cmstemplates.git",
+		"project_name": "Projects",
+		"repository_name": "SheffieldAchesAndPains-CMSTemplates",
+		"full_name": "rckt/sheffieldachesandpains-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/sheffieldachesandpains-modxtemplates.git",
+		"project_name": "Projects",
+		"repository_name": "SheffieldAchesAndPains-MODXTemplates",
+		"full_name": "rckt/sheffieldachesandpains-modxtemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/sheffieldforgemasters-app.git",
+		"project_name": "Projects",
+		"repository_name": "SheffieldForgemasters-App",
+		"full_name": "rckt/sheffieldforgemasters-app"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/sheffieldforgemasters-cmstemplates.git",
+		"project_name": "Projects",
+		"repository_name": "SheffieldForgemasters-CMSTemplates",
+		"full_name": "rckt/sheffieldforgemasters-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/shu-carefield-cmstemplates.git",
+		"project_name": "Projects",
+		"repository_name": "SHU-Carefield-CMSTemplates",
+		"full_name": "rckt/shu-carefield-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/shu-challengehallam.git",
+		"project_name": "Projects",
+		"repository_name": "SHU-ChallengeHallam",
+		"full_name": "rckt/shu-challengehallam"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/welbeck-cmstemplates.git",
+		"project_name": "Projects",
+		"repository_name": "Welbeck-CMSTemplates",
+		"full_name": "rckt/welbeck-cmstemplates"
+	},
+{
+		"clone_url": "git@bitbucket.org:rckt/zoella-2019theme.git",
+		"project_name": "Projects",
+		"repository_name": "Zoella-2019Theme",
+		"full_name": "rckt/zoella-2019theme"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/zoella-gutenbergblocks.git",
+		"project_name": "Projects",
+		"repository_name": "Zoella-GutenbergBlocks",
+		"full_name": "rckt/zoella-gutenbergblocks"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/zoella-wordpresstheme.git",
+		"project_name": "Projects",
+		"repository_name": "Zoella-WordpressTheme",
+		"full_name": "rckt/zoella-wordpresstheme"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/zoella.git",
+		"project_name": "Projects",
+		"repository_name": "Zoella",
+		"full_name": "rckt/zoella"
+	},
+{
+		"clone_url": "git@bitbucket.org:rckt/docfest-schedule.git",
+		"project_name": "DocFest",
+		"repository_name": "DocFest-schedule",
+		"full_name": "rckt/docfest-schedule"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/docfest-theapp-nativeappandroid.git",
+		"project_name": "DocFest",
+		"repository_name": "DocFest-TheApp-NativeAppAndroid",
+		"full_name": "rckt/docfest-theapp-nativeappandroid"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/docfest-theapp-nativeappios.git",
+		"project_name": "DocFest",
+		"repository_name": "DocFest-TheApp-NativeAppiOS",
+		"full_name": "rckt/docfest-theapp-nativeappios"
+	},
+{
+		"clone_url": "git@bitbucket.org:rckt/four-aws-cdk-drupal-stack.git",
+		"project_name": "Dev",
+		"repository_name": "four-aws-cdk-drupal-stack",
+		"full_name": "rckt/four-aws-cdk-drupal-stack"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/four-aws-cdk-headless-stack.git",
+		"project_name": "Dev",
+		"repository_name": "four-aws-cdk-headless-stack",
+		"full_name": "rckt/four-aws-cdk-headless-stack"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/four-aws-cdk-kms-stack.git",
+		"project_name": "Dev",
+		"repository_name": "four-aws-cdk-kms-stack",
+		"full_name": "rckt/four-aws-cdk-kms-stack"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/four-deployment-tools.git",
+		"project_name": "Dev",
+		"repository_name": "four-deployment-tools",
+		"full_name": "rckt/four-deployment-tools"
+	},
+{
+		"clone_url": "git@bitbucket.org:rckt/bcrt-modxtemplates.git",
+		"project_name": "Dev",
+		"repository_name": "BCRT-MODXTemplates",
+		"full_name": "rckt/bcrt-modxtemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/ccla-drupal-site.git",
+		"project_name": "CCLA",
+		"repository_name": "CCLA Drupal Site",
+		"full_name": "rckt/ccla-drupal-site"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/chwa-transfered.git",
+		"project_name": "Archive",
+		"repository_name": "chwa-transfered",
+		"full_name": "rckt/chwa-transfered"
+	},
+{
+		"clone_url": "git@bitbucket.org:rckt/codedeploytest.git",
+		"project_name": "Joi Polloi",
+		"repository_name": "CodeDeployTest",
+		"full_name": "rckt/codedeploytest"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/creativesheffield-channel4pitch.git",
+		"project_name": "Joi Polloi",
+		"repository_name": "CreativeSheffield-Channel4Pitch",
+		"full_name": "rckt/creativesheffield-channel4pitch"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/headlessreact.git",
+		"project_name": "Joi Polloi",
+		"repository_name": "HeadlessReact",
+		"full_name": "rckt/headlessreact"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/joipolloi-drupalmodules.git",
+		"project_name": "Joi Polloi",
+		"repository_name": "JoiPolloi-DrupalModules",
+		"full_name": "rckt/joipolloi-drupalmodules"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/joipolloi-drupalskeleton.git",
+		"project_name": "Joi Polloi",
+		"repository_name": "JoiPolloi-DrupalSkeleton",
+		"full_name": "rckt/joipolloi-drupalskeleton"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/perthmuseum-av00-vennelscreens.git",
+		"project_name": "Culture Perth & Kinross",
+		"repository_name": "PerthMuseum-AV00-VennelScreens",
+		"full_name": "rckt/perthmuseum-av00-vennelscreens"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/perthmuseum-av01-medievalgames-r-d-obsolete.git",
+		"project_name": "Culture Perth & Kinross",
+		"repository_name": "PerthMuseum-AV01-MedievalGames-R&D-Obsolete",
+		"full_name": "rckt/perthmuseum-av01-medievalgames-r-d-obsolete"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/perthmuseum-av01-medievalgames.git",
+		"project_name": "Culture Perth & Kinross",
+		"repository_name": "PerthMuseum-AV01-MedievalGames",
+		"full_name": "rckt/perthmuseum-av01-medievalgames"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/perthmuseum-av02-av04-av07.git",
+		"project_name": "Culture Perth & Kinross",
+		"repository_name": "PerthMuseum-AV02-AV04-AV07",
+		"full_name": "rckt/perthmuseum-av02-av04-av07"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/perthmuseum-av02-medievalreconstructions.git",
+		"project_name": "Culture Perth & Kinross",
+		"repository_name": "PerthMuseum-AV02-MedievalReconstructions",
+		"full_name": "rckt/perthmuseum-av02-medievalreconstructions"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/antiageism.git",
+		"project_name": "CentreforAgeingBetter",
+		"repository_name": "AntiAgeism",
+		"full_name": "rckt/antiageism"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/youth-music.git",
+		"project_name": "Youth Music",
+		"repository_name": "Youth Music",
+		"full_name": "rckt/youth-music"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/lauderdale-d9.git",
+		"project_name": "Lauderdale house",
+		"repository_name": "Lauderdale D9",
+		"full_name": "rckt/lauderdale-d9"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/lauderdale-house.git",
+		"project_name": "Lauderdale house",
+		"repository_name": "Lauderdale House",
+		"full_name": "rckt/lauderdale-house"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/079-rocketeers.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "079-Rocketeers",
+		"full_name": "rckt/079-rocketeers"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/casp-aws-cdk-drupal-stack.git",
+		"project_name": "Natural Resources Wales",
+		"repository_name": "casp-aws-cdk-drupal-stack",
+		"full_name": "rckt/casp-aws-cdk-drupal-stack"
+	},
+	{
+
+		"clone_url": "git@bitbucket.org:rckt/casp.git",
+		"project_name": "Natural Resources Wales",
+		"repository_name": "CaSP",
+		"full_name": "rckt/casp"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/ethical-property-drupal-site.git",
+		"project_name": "Ethical Property",
+		"repository_name": "Ethical Property Drupal Site",
+		"full_name": "rckt/ethical-property-drupal-site"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/minifigs-builder-filter-customiser.git",
+		"project_name": "Minifigs",
+		"repository_name": "Minifigs-Builder-Filter-Customiser",
+		"full_name": "rckt/minifigs-builder-filter-customiser"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/minifigs-minifigs.git",
+		"project_name": "Minifigs",
+		"repository_name": "Minifigs-Minifigs",
+		"full_name": "rckt/minifigs-minifigs"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/minifigs-shopify-2.0.git",
+		"project_name": "Minifigs",
+		"repository_name": "Minifigs-Shopify-2.0",
+		"full_name": "rckt/minifigs-shopify-2.0"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/minifigs-shopifytemplate.git",
+		"project_name": "Minifigs",
+		"repository_name": "Minifigs-ShopifyTemplate",
+		"full_name": "rckt/minifigs-shopifytemplate"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/minifigs-text-fit-demo.git",
+		"project_name": "Minifigs",
+		"repository_name": "Minifigs Text Fit Demo",
+		"full_name": "rckt/minifigs-text-fit-demo"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-4sales-drupalmodule.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-4Sales-DrupalModule",
+		"full_name": "rckt/channel4-4sales-drupalmodule"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-4sales-newsletter.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-4Sales-Newsletter",
+		"full_name": "rckt/channel4-4sales-newsletter"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-4sales.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-4Sales",
+		"full_name": "rckt/channel4-4sales"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/c4sales.git",
+		"project_name": "Channel4",
+		"repository_name": "c4sales",
+		"full_name": "rckt/c4sales"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-4sales-client.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-4Sales-Client",
+		"full_name": "rckt/channel4-4sales-client"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-4sales-cms.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-4Sales-CMS",
+		"full_name": "rckt/channel4-4sales-cms"
+	}
+]

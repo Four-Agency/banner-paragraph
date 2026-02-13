@@ -1,0 +1,62 @@
+[
+		{
+		"clone_url": "git@bitbucket.org:rckt/channel4-4d.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-4D",
+		"full_name": "rckt/channel4-4d"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-blackbusinessbreakthrough.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-BlackBusinessBreakthrough",
+		"full_name": "rckt/channel4-blackbusinessbreakthrough"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-voting.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-Voting",
+		"full_name": "rckt/channel4-voting"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/heathrow-movie-tour.git",
+		"project_name": "Projects",
+		"repository_name": "heathrow-movie-tour",
+		"full_name": "rckt/heathrow-movie-tour"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/liad-logger.git",
+		"project_name": "Flying Object",
+		"repository_name": "liad-logger",
+		"full_name": "rckt/liad-logger"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/loveproductions-gbbo-app-copy.git",
+		"project_name": "Joi Polloi",
+		"repository_name": "LoveProductions-GBBO-App-Copy",
+		"full_name": "rckt/loveproductions-gbbo-app-copy"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/maverick-microsoftmicrosite.git",
+		"project_name": "Projects",
+		"repository_name": "Maverick-MicrosoftMicrosite",
+		"full_name": "rckt/maverick-microsoftmicrosite"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/touchlightgenetics-modxtemplate.git",
+		"project_name": "Projects",
+		"repository_name": "TouchlightGenetics-MODXTemplate",
+		"full_name": "rckt/touchlightgenetics-modxtemplate"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/studiolambert-thecircle-productiontool.git",
+		"project_name": "Studio Lambert",
+		"repository_name": "StudioLambert-TheCircle-ProductionTool",
+		"full_name": "rckt/studiolambert-thecircle-productiontool"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/perthmuseum-av01-medievalgames.git",
+		"project_name": "Culture Perth & Kinross",
+		"repository_name": "PerthMuseum-AV01-MedievalGames",
+		"full_name": "rckt/perthmuseum-av01-medievalgames"
+	}
+]

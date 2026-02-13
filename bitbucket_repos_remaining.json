@@ -1,0 +1,1570 @@
+[
+	{
+		"clone_url": "git@bitbucket.org:rckt/085-peacock.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "085-peacock",
+		"full_name": "rckt/085-peacock"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/089-jacquard-client.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "089-Jacquard-Client",
+		"full_name": "rckt/089-jacquard-client"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/089-jacquard-server.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "089-Jacquard-Server",
+		"full_name": "rckt/089-jacquard-server"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/097-weather.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "097-Weather",
+		"full_name": "rckt/097-weather"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/099-wildlife.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "099-Wildlife",
+		"full_name": "rckt/099-wildlife"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/alexandra-miro-impulse-theme.git",
+		"project_name": "Joi Polloi",
+		"repository_name": "alexandra-miro-impulse-theme",
+		"full_name": "rckt/alexandra-miro-impulse-theme"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/animation.git",
+		"project_name": "UnusualProjects",
+		"repository_name": "Animation",
+		"full_name": "rckt/animation"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/antiageism.git",
+		"project_name": "CentreforAgeingBetter",
+		"repository_name": "AntiAgeism",
+		"full_name": "rckt/antiageism"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/artist-village-014-config.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "artist-village-014-config",
+		"full_name": "rckt/artist-village-014-config"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/av09-page-turner.git",
+		"project_name": "The Harris",
+		"repository_name": "av09-page-turner",
+		"full_name": "rckt/av09-page-turner"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/av11-egyptian-balcony.git",
+		"project_name": "The Harris",
+		"repository_name": "AV11-Egyptian-Balcony",
+		"full_name": "rckt/av11-egyptian-balcony"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bandl-greece.git",
+		"project_name": "Bausch and Lomb",
+		"repository_name": "BandL Greece",
+		"full_name": "rckt/bandl-greece"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bandl-ukri.git",
+		"project_name": "BandL",
+		"repository_name": "BandL UKRI",
+		"full_name": "rckt/bandl-ukri"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bandl-wordpress.git",
+		"project_name": "Bausch and Lomb",
+		"repository_name": "BandL Wordpress",
+		"full_name": "rckt/bandl-wordpress"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/barconvent.git",
+		"project_name": "UnusualProjects",
+		"repository_name": "BarConvent",
+		"full_name": "rckt/barconvent"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bing-drupal-next-client.git",
+		"project_name": "Acamar",
+		"repository_name": "bing-drupal-next-client",
+		"full_name": "rckt/bing-drupal-next-client"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/bing-drupal-next-cms.git",
+		"project_name": "Acamar",
+		"repository_name": "bing-drupal-next-cms",
+		"full_name": "rckt/bing-drupal-next-cms"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/camden-mental-health.git",
+		"project_name": "Camden Mental Health",
+		"repository_name": "Camden Mental Health",
+		"full_name": "rckt/camden-mental-health"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/casp-aws-cdk-drupal-stack.git",
+		"project_name": "Natural Resources Wales",
+		"repository_name": "casp-aws-cdk-drupal-stack",
+		"full_name": "rckt/casp-aws-cdk-drupal-stack"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/casp.git",
+		"project_name": "Natural Resources Wales",
+		"repository_name": "CaSP",
+		"full_name": "rckt/casp"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/ccla-aws-cdk-drupal-stack.git",
+		"project_name": "CCLA",
+		"repository_name": "ccla-aws-cdk-drupal-stack",
+		"full_name": "rckt/ccla-aws-cdk-drupal-stack"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/ccla2022.git",
+		"project_name": "CCLA",
+		"repository_name": "ccla2022",
+		"full_name": "rckt/ccla2022"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/ceda-health.git",
+		"project_name": "CEDA",
+		"repository_name": "CEDA Health",
+		"full_name": "rckt/ceda-health"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-film4-drupalmodule.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-Film4-DrupalModule",
+		"full_name": "rckt/channel4-film4-drupalmodule"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-film4-site.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-Film4-Site",
+		"full_name": "rckt/channel4-film4-site"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/channel4-film4.git",
+		"project_name": "Channel4",
+		"repository_name": "Channel4-Film4",
+		"full_name": "rckt/channel4-film4"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/chocolate-for-strangers.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "Chocolate for Strangers",
+		"full_name": "rckt/chocolate-for-strangers"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/church-investors-group-wp.git",
+		"project_name": "Church Investors Group",
+		"repository_name": "church-investors-group-wp",
+		"full_name": "rckt/church-investors-group-wp"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/claw.git",
+		"project_name": "CheekyMonkey",
+		"repository_name": "CLAW",
+		"full_name": "rckt/claw"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/coffee.git",
+		"project_name": "London Zoo",
+		"repository_name": "coffee",
+		"full_name": "rckt/coffee"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/congletonmuseumwebsite.git",
+		"project_name": "Congleton Museum",
+		"repository_name": "CongletonMuseumWebsite",
+		"full_name": "rckt/congletonmuseumwebsite"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/consult360.git",
+		"project_name": "Consult 360",
+		"repository_name": "Consult360",
+		"full_name": "rckt/consult360"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/content-poll.git",
+		"project_name": "Drupal",
+		"repository_name": "Content Poll",
+		"full_name": "rckt/content-poll"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/creativesheffield-c4.git",
+		"project_name": "Channel4",
+		"repository_name": "CreativeSheffield-C4",
+		"full_name": "rckt/creativesheffield-c4"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/croydon-borough-culture.git",
+		"project_name": "CroydonCouncil",
+		"repository_name": "Croydon-Borough-Culture",
+		"full_name": "rckt/croydon-borough-culture"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/delancey-website.git",
+		"project_name": "University of Wolverhampton",
+		"repository_name": "Delancey-Website",
+		"full_name": "rckt/delancey-website"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/docfest-festival.git",
+		"project_name": "DocFest",
+		"repository_name": "DocFest-Festival",
+		"full_name": "rckt/docfest-festival"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/dolphin-living-drupal-9.git",
+		"project_name": "Dolphin Living",
+		"repository_name": "Dolphin Living Drupal 9",
+		"full_name": "rckt/dolphin-living-drupal-9"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/dunfermline-microsites.git",
+		"project_name": "Onfife",
+		"repository_name": "Dunfermline-Microsites",
+		"full_name": "rckt/dunfermline-microsites"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/dwp-escape-room.git",
+		"project_name": "Four",
+		"repository_name": "DWP-escape-room",
+		"full_name": "rckt/dwp-escape-room"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/energy-transition-zone.git",
+		"project_name": "Energy Transition Zone",
+		"repository_name": "Energy Transition Zone",
+		"full_name": "rckt/energy-transition-zone"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/fcn2022.git",
+		"project_name": "Forensic Capability Network",
+		"repository_name": "fcn2022",
+		"full_name": "rckt/fcn2022"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/film4library.git",
+		"project_name": "Channel4",
+		"repository_name": "film4library",
+		"full_name": "rckt/film4library"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/fortitude-survey-client.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "Fortitude Survey Client",
+		"full_name": "rckt/fortitude-survey-client"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/fortitude-survey-cms-deploy.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "fortitude-survey-cms-deploy",
+		"full_name": "rckt/fortitude-survey-cms-deploy"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/fortitude-survey-cms.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "Fortitude Survey CMS",
+		"full_name": "rckt/fortitude-survey-cms"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/fortitude.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "Fortitude",
+		"full_name": "rckt/fortitude"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/foundry.git",
+		"project_name": "EthicalPropertyCompany",
+		"repository_name": "Foundry",
+		"full_name": "rckt/foundry"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/four-guvnor.git",
+		"project_name": "Four",
+		"repository_name": "four-guvnor",
+		"full_name": "rckt/four-guvnor"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/four-kiosk-brightsign-client.git",
+		"project_name": "KMS",
+		"repository_name": "four-kiosk-brightsign-client",
+		"full_name": "rckt/four-kiosk-brightsign-client"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/four-kiosk-client-v2.git",
+		"project_name": "KMS",
+		"repository_name": "four-kiosk-client-v2",
+		"full_name": "rckt/four-kiosk-client-v2"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/four-kiosk-client.git",
+		"project_name": "KMS",
+		"repository_name": "four-kiosk-client",
+		"full_name": "rckt/four-kiosk-client"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/four-kiosk-interface-v2.git",
+		"project_name": "KMS",
+		"repository_name": "four-kiosk-interface-v2",
+		"full_name": "rckt/four-kiosk-interface-v2"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/four-kiosk-interface.git",
+		"project_name": "KMS",
+		"repository_name": "four-kiosk-interface",
+		"full_name": "rckt/four-kiosk-interface"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/four-kiosk-management-v2.git",
+		"project_name": "KMS",
+		"repository_name": "four-kiosk-management-v2",
+		"full_name": "rckt/four-kiosk-management-v2"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/four-kiosk-management.git",
+		"project_name": "KMS",
+		"repository_name": "four-kiosk-management",
+		"full_name": "rckt/four-kiosk-management"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/fourbrowserteams.git",
+		"project_name": "Four",
+		"repository_name": "FourBrowserTeams",
+		"full_name": "rckt/fourbrowserteams"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/gbni-japan-website.git",
+		"project_name": "Defra",
+		"repository_name": "gbni-japan-website",
+		"full_name": "rckt/gbni-japan-website"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/gep03-minerals.git",
+		"project_name": "Natural History Museum",
+		"repository_name": "GEP03-Minerals",
+		"full_name": "rckt/gep03-minerals"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/glasgowsciencecenter-amplify-mapmaker.git",
+		"project_name": "GSC",
+		"repository_name": "GlasgowScienceCenter-Amplify-Mapmaker",
+		"full_name": "rckt/glasgowsciencecenter-amplify-mapmaker"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/glasgowsciencecenter-amplify.git",
+		"project_name": "GSC",
+		"repository_name": "GlasgowScienceCenter-Amplify",
+		"full_name": "rckt/glasgowsciencecenter-amplify"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/glasgowsciencecentre-bodyworks.git",
+		"project_name": "GSC",
+		"repository_name": "GlasgowScienceCentre-Bodyworks",
+		"full_name": "rckt/glasgowsciencecentre-bodyworks"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/glasgowsciencecentre-darkskies.git",
+		"project_name": "GSC",
+		"repository_name": "GlasgowScienceCentre-DarkSkies",
+		"full_name": "rckt/glasgowsciencecentre-darkskies"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/glasgowsciencecentre-idea59.git",
+		"project_name": "GlasgowElectron",
+		"repository_name": "GlasgowScienceCentre-Idea59",
+		"full_name": "rckt/glasgowsciencecentre-idea59"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/glasgowsciencecentre-senga.git",
+		"project_name": "GSC",
+		"repository_name": "GlasgowScienceCentre-Senga",
+		"full_name": "rckt/glasgowsciencecentre-senga"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/glasgowsciencecentre-teczone-amphitheatre.git",
+		"project_name": "GSC",
+		"repository_name": "GlasgowScienceCentre-TECZone-Amphitheatre",
+		"full_name": "rckt/glasgowsciencecentre-teczone-amphitheatre"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/glasgowsciencecentre-teczone-base.git",
+		"project_name": "GSC",
+		"repository_name": "GlasgowScienceCentre-TECZone-Base",
+		"full_name": "rckt/glasgowsciencecentre-teczone-base"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/glasgowsciencecentre-teczone-communityalarm.git",
+		"project_name": "GSC",
+		"repository_name": "GlasgowScienceCentre-TECZone-CommunityAlarm",
+		"full_name": "rckt/glasgowsciencecentre-teczone-communityalarm"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/glasgowsciencecentre-teczone-telehealth.git",
+		"project_name": "GSC",
+		"repository_name": "GlasgowScienceCentre-TECZone-Telehealth",
+		"full_name": "rckt/glasgowsciencecentre-teczone-telehealth"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/glasgowsciencecentre-teczone-videoplayer.git",
+		"project_name": "GSC",
+		"repository_name": "GlasgowScienceCentre-TECZone-VideoPlayer",
+		"full_name": "rckt/glasgowsciencecentre-teczone-videoplayer"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/glasgowsciencecentre-teczone-whereisjim.git",
+		"project_name": "GSC",
+		"repository_name": "GlasgowScienceCentre-TECZone-WhereIsJim",
+		"full_name": "rckt/glasgowsciencecentre-teczone-whereisjim"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/glasgowsciencecentre-teczone-whosatthedoor.git",
+		"project_name": "GSC",
+		"repository_name": "GlasgowScienceCentre-TECZone-WhosAtTheDoor",
+		"full_name": "rckt/glasgowsciencecentre-teczone-whosatthedoor"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/glasgowsciencecentre-track-the-ball-app.git",
+		"project_name": "GSC",
+		"repository_name": "GlasgowScienceCentre-track-the-ball-app",
+		"full_name": "rckt/glasgowsciencecentre-track-the-ball-app"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/glasgowsciencecentre-tricky-puzzles-app.git",
+		"project_name": "GSC",
+		"repository_name": "GlasgowScienceCentre-tricky-puzzles-app",
+		"full_name": "rckt/glasgowsciencecentre-tricky-puzzles-app"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/glasgowsciencecentre-virtual-events.git",
+		"project_name": "GSC",
+		"repository_name": "GlasgowScienceCentre-virtual-events",
+		"full_name": "rckt/glasgowsciencecentre-virtual-events"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/good-finance-drupal-9.git",
+		"project_name": "Good Finance",
+		"repository_name": "Good Finance Drupal 9",
+		"full_name": "rckt/good-finance-drupal-9"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/graphql_compose_extra.git",
+		"project_name": "Drupal",
+		"repository_name": "graphql_compose_extra",
+		"full_name": "rckt/graphql_compose_extra"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/graphql_compose.git",
+		"project_name": "Drupal",
+		"repository_name": "graphql_compose",
+		"full_name": "rckt/graphql_compose"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/grosvenor-b2b.git",
+		"project_name": "Grosvenor",
+		"repository_name": "grosvenor-b2b",
+		"full_name": "rckt/grosvenor-b2b"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/grosvenor-loyalty-scheme.git",
+		"project_name": "Grosvenor",
+		"repository_name": "grosvenor-loyalty-scheme",
+		"full_name": "rckt/grosvenor-loyalty-scheme"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/grosvenor-websites.git",
+		"project_name": "Grosvenor",
+		"repository_name": "grosvenor-websites",
+		"full_name": "rckt/grosvenor-websites"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/gsc-instituteofhealth-datadetectives.git",
+		"project_name": "GSC",
+		"repository_name": "GSC-InstituteOfHealth-DataDetectives",
+		"full_name": "rckt/gsc-instituteofhealth-datadetectives"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/gsc-instituteofhealth-faces.git",
+		"project_name": "GSC",
+		"repository_name": "gsc-instituteofhealth-faces",
+		"full_name": "rckt/gsc-instituteofhealth-faces"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/gsc-instituteofhealth-myths-misconceptions.git",
+		"project_name": "GSC",
+		"repository_name": "GSC-InstituteOfHealth-Myths&Misconceptions",
+		"full_name": "rckt/gsc-instituteofhealth-myths-misconceptions"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/gsc-instituteofhealth-policymaker.git",
+		"project_name": "GSC",
+		"repository_name": "GSC-InstituteOfHealth-PolicyMaker",
+		"full_name": "rckt/gsc-instituteofhealth-policymaker"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/gsc-senga.git",
+		"project_name": "GlasgowElectron",
+		"repository_name": "GSC-Senga",
+		"full_name": "rckt/gsc-senga"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/hadrianswall-1900.git",
+		"project_name": "HadriansWall",
+		"repository_name": "HadriansWall-1900",
+		"full_name": "rckt/hadrianswall-1900"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/hadrianswall-website.git",
+		"project_name": "HadriansWall",
+		"repository_name": "HadriansWall-Website",
+		"full_name": "rckt/hadrianswall-website"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/harris-av-components.git",
+		"project_name": "The Harris",
+		"repository_name": "harris-av-components",
+		"full_name": "rckt/harris-av-components"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/harris-aws-cdk-kms-stack.git",
+		"project_name": "The Harris",
+		"repository_name": "harris-aws-cdk-kms-stack",
+		"full_name": "rckt/harris-aws-cdk-kms-stack"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/harris-kiosk-management.git",
+		"project_name": "The Harris",
+		"repository_name": "harris-kiosk-management",
+		"full_name": "rckt/harris-kiosk-management"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/harris-kms-cdk-stack.git",
+		"project_name": "The Harris",
+		"repository_name": "harris-kms-cdk-stack",
+		"full_name": "rckt/harris-kms-cdk-stack"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/harris-selfie-booth-archive.git",
+		"project_name": "The Harris",
+		"repository_name": "Harris-Selfie-Booth-Archive",
+		"full_name": "rckt/harris-selfie-booth-archive"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/harris-selfie-booth.git",
+		"project_name": "The Harris",
+		"repository_name": "harris-selfie-booth",
+		"full_name": "rckt/harris-selfie-booth"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/harris-welcome-screen-cdk-drupal-stack.git",
+		"project_name": "The Harris",
+		"repository_name": "harris-welcome-screen-cdk-drupal-stack",
+		"full_name": "rckt/harris-welcome-screen-cdk-drupal-stack"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/harris-welcome-screen-client.git",
+		"project_name": "The Harris",
+		"repository_name": "harris-welcome-screen-client",
+		"full_name": "rckt/harris-welcome-screen-client"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/harris-welcome-screen-cms.git",
+		"project_name": "The Harris",
+		"repository_name": "harris-welcome-screen-cms",
+		"full_name": "rckt/harris-welcome-screen-cms"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/harris-welcome-screen-interface.git",
+		"project_name": "The Harris",
+		"repository_name": "harris-welcome-screen-interface",
+		"full_name": "rckt/harris-welcome-screen-interface"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/harris-ws-cdk-drupal-stack.git",
+		"project_name": "The Harris",
+		"repository_name": "harris-ws-cdk-drupal-stack",
+		"full_name": "rckt/harris-ws-cdk-drupal-stack"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/head-holiday-unity-ios-v2.git",
+		"project_name": "Head Holiday",
+		"repository_name": "head-holiday-unity-ios-v2",
+		"full_name": "rckt/head-holiday-unity-ios-v2"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/head-holiday-web.git",
+		"project_name": "Head Holiday",
+		"repository_name": "head-holiday-web",
+		"full_name": "rckt/head-holiday-web"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/hey-duggie-ivor.git",
+		"project_name": "BBC",
+		"repository_name": "Hey Duggie IVOR",
+		"full_name": "rckt/hey-duggie-ivor"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/hide-n-find.git",
+		"project_name": "WentworthWoodhouse",
+		"repository_name": "hide-n-find",
+		"full_name": "rckt/hide-n-find"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/hubspot-scripts.git",
+		"project_name": "CEDA",
+		"repository_name": "hubspot-scripts",
+		"full_name": "rckt/hubspot-scripts"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/ica-atom.git",
+		"project_name": "OuterHebridesHeritage",
+		"repository_name": "ica-atom",
+		"full_name": "rckt/ica-atom"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/image-resizer.git",
+		"project_name": "Grosvenor",
+		"repository_name": "image-resizer",
+		"full_name": "rckt/image-resizer"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/ionic-hidenfind.git",
+		"project_name": "WentworthWoodhouse",
+		"repository_name": "ionic-hidenfind",
+		"full_name": "rckt/ionic-hidenfind"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/ipaf-aws-cdk-headless-stack.git",
+		"project_name": "IPAF",
+		"repository_name": "ipaf-aws-cdk-headless-stack",
+		"full_name": "rckt/ipaf-aws-cdk-headless-stack"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/ipaf-client.git",
+		"project_name": "IPAF",
+		"repository_name": "IPAF-client",
+		"full_name": "rckt/ipaf-client"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/ipaf-cms.git",
+		"project_name": "IPAF",
+		"repository_name": "IPAF-cms",
+		"full_name": "rckt/ipaf-cms"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/iws002-plain-weaving.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "IWS002-Plain-Weaving",
+		"full_name": "rckt/iws002-plain-weaving"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/iws004-design.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "IWS004-Design",
+		"full_name": "rckt/iws004-design"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/iws005-jaquardweaving.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "IWS005-JaquardWeaving",
+		"full_name": "rckt/iws005-jaquardweaving"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/iws009-pollution-new.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "IWS009-Pollution-New",
+		"full_name": "rckt/iws009-pollution-new"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/iws009-pollution.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "IWS009-Pollution",
+		"full_name": "rckt/iws009-pollution"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/jacquard-binary-electron.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "Jacquard Binary Electron",
+		"full_name": "rckt/jacquard-binary-electron"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/jacquard-binary-game.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "Jacquard Binary Game",
+		"full_name": "rckt/jacquard-binary-game"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/jacquard-binary-server.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "Jacquard Binary Server",
+		"full_name": "rckt/jacquard-binary-server"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/lamb-cymru.git",
+		"project_name": "HCC",
+		"repository_name": "Lamb Cymru",
+		"full_name": "rckt/lamb-cymru"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/life-as-we-know-it-config-editor.git",
+		"project_name": "Oxford Museum",
+		"repository_name": "Life As We Know It - Config Editor",
+		"full_name": "rckt/life-as-we-know-it-config-editor"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/life-as-we-know-it-trail.git",
+		"project_name": "Oxford Museum",
+		"repository_name": "Life As We Know It Trail",
+		"full_name": "rckt/life-as-we-know-it-trail"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/ll-ivor-bugs-shapes.git",
+		"project_name": "BBC",
+		"repository_name": "ll-ivor-bugs-shapes",
+		"full_name": "rckt/ll-ivor-bugs-shapes"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/ll-ivor-teletubbies.git",
+		"project_name": "BBC",
+		"repository_name": "ll-ivor-teletubbies",
+		"full_name": "rckt/ll-ivor-teletubbies"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/london-zoo-coffee.git",
+		"project_name": "UnusualProjects",
+		"repository_name": "london-zoo-coffee",
+		"full_name": "rckt/london-zoo-coffee"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/low-carbon-home.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "Low-Carbon-Home",
+		"full_name": "rckt/low-carbon-home"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/make-it-marylebone.git",
+		"project_name": "BakerStreet",
+		"repository_name": "Make it Marylebone",
+		"full_name": "rckt/make-it-marylebone"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/make-venues-stack.git",
+		"project_name": "Make UK",
+		"repository_name": "make-venues-stack",
+		"full_name": "rckt/make-venues-stack"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/makeuk-venues.git",
+		"project_name": "Make UK",
+		"repository_name": "makeuk-venues",
+		"full_name": "rckt/makeuk-venues"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/makeuk.git",
+		"project_name": "Make UK",
+		"repository_name": "makeuk",
+		"full_name": "rckt/makeuk"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/mayfairbelgravia.git",
+		"project_name": "Grosvenor",
+		"repository_name": "mayfairbelgravia",
+		"full_name": "rckt/mayfairbelgravia"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/media-entity-download-extended.git",
+		"project_name": "Drupal Modules",
+		"repository_name": "Media Entity Download Extended",
+		"full_name": "rckt/media-entity-download-extended"
+	},
+
+	{
+		"clone_url": "git@bitbucket.org:rckt/mindscapes.git",
+		"project_name": "Flying Object",
+		"repository_name": "mindscapes",
+		"full_name": "rckt/mindscapes"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/morris-young-029-config.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "morris-young-029-config",
+		"full_name": "rckt/morris-young-029-config"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/nam-changing-guns-tactics.git",
+		"project_name": "National Army Museum",
+		"repository_name": "NAM-Changing-Guns-Tactics",
+		"full_name": "rckt/nam-changing-guns-tactics"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/national-consortium-language-education.git",
+		"project_name": "British Council",
+		"repository_name": "National Consortium Language Education",
+		"full_name": "rckt/national-consortium-language-education"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/nestaigl.git",
+		"project_name": "Innovation Growth Lab",
+		"repository_name": "nestaigl",
+		"full_name": "rckt/nestaigl"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/nhm-peopleschoiceinteractive.git",
+		"project_name": "Natural History Museum",
+		"repository_name": "NHM-PeoplesChoiceInteractive",
+		"full_name": "rckt/nhm-peopleschoiceinteractive"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/nhm-venom.git",
+		"project_name": "Natural History Museum",
+		"repository_name": "NHM-Venom",
+		"full_name": "rckt/nhm-venom"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/nmrn-kiosk-interface-v2.git",
+		"project_name": "National Museum of the Royal Navy",
+		"repository_name": "nmrn-kiosk-interface-v2",
+		"full_name": "rckt/nmrn-kiosk-interface-v2"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/nmrn-kiosk-interface.git",
+		"project_name": "National Museum of the Royal Navy",
+		"repository_name": "nmrn-kiosk-interface",
+		"full_name": "rckt/nmrn-kiosk-interface"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/nmrn-kiosk-management-v2.git",
+		"project_name": "National Museum of the Royal Navy",
+		"repository_name": "nmrn-kiosk-management-v2",
+		"full_name": "rckt/nmrn-kiosk-management-v2"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/nmrn-kiosk-management.git",
+		"project_name": "National Museum of the Royal Navy",
+		"repository_name": "nmrn-kiosk-management",
+		"full_name": "rckt/nmrn-kiosk-management"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/northlincolnshiremuseum-website.git",
+		"project_name": "North Lincolnshire Museum",
+		"repository_name": "NorthLincolnshireMuseum-Website",
+		"full_name": "rckt/northlincolnshiremuseum-website"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/observatory-compensatory-experience.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "Observatory Compensatory Experience",
+		"full_name": "rckt/observatory-compensatory-experience"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/outer-hebrides-heritage.git",
+		"project_name": "OuterHebridesHeritage",
+		"repository_name": "Outer-Hebrides-Heritage",
+		"full_name": "rckt/outer-hebrides-heritage"
+	},
+
+	{
+		"clone_url": "git@bitbucket.org:rckt/paisley-e-storybooks-v2.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "paisley-e-storybooks-v2",
+		"full_name": "rckt/paisley-e-storybooks-v2"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/paisley-e-storybooks.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "Paisley-e-storybooks",
+		"full_name": "rckt/paisley-e-storybooks"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/paisley-hc-table-config-editor.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "Paisley HC Table - Config Editor",
+		"full_name": "rckt/paisley-hc-table-config-editor"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/paisley-hc-table.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "Paisley HC Table",
+		"full_name": "rckt/paisley-hc-table"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/paisley-kiosk-interface.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "paisley-kiosk-interface",
+		"full_name": "rckt/paisley-kiosk-interface"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/paisley-kiosk-management.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "paisley-kiosk-management",
+		"full_name": "rckt/paisley-kiosk-management"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/paisleymuseum-drawboy.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "PaisleyMuseum-Drawboy",
+		"full_name": "rckt/paisleymuseum-drawboy"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/paisleymuseum-goldencity.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "PaisleyMuseum-GoldenCity",
+		"full_name": "rckt/paisleymuseum-goldencity"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/paisleymuseum-rocketeers.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "PaisleyMuseum-Rocketeers",
+		"full_name": "rckt/paisleymuseum-rocketeers"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/paisleymuseum-wildlife.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "PaisleyMuseum-Wildlife",
+		"full_name": "rckt/paisleymuseum-wildlife"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/perthmuseum-av03-st-madoes-cross.git",
+		"project_name": "Culture Perth & Kinross",
+		"repository_name": "PerthMuseum-AV03-St-Madoes-Cross",
+		"full_name": "rckt/perthmuseum-av03-st-madoes-cross"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/perthmuseum-av06-romangames.git",
+		"project_name": "Culture Perth & Kinross",
+		"repository_name": "PerthMuseum-AV06-RomanGames",
+		"full_name": "rckt/perthmuseum-av06-romangames"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/perthmuseum-av11-worldwardiaries.git",
+		"project_name": "Culture Perth & Kinross",
+		"repository_name": "PerthMuseum-AV11-WorldWarDiaries",
+		"full_name": "rckt/perthmuseum-av11-worldwardiaries"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/perthmuseum-av12-perthshiretourism.git",
+		"project_name": "Culture Perth & Kinross",
+		"repository_name": "PerthMuseum-AV12-PerthshireTourism",
+		"full_name": "rckt/perthmuseum-av12-perthshiretourism"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/perthmuseum-av13-msballantinessalmon-threejs.git",
+		"project_name": "Culture Perth & Kinross",
+		"repository_name": "PerthMuseum-AV13-MsBallantinesSalmon--THREEJS",
+		"full_name": "rckt/perthmuseum-av13-msballantinessalmon-threejs"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/perthmuseum-av13-msballantinessalmon.git",
+		"project_name": "Culture Perth & Kinross",
+		"repository_name": "PerthMuseum-AV13-MsBallantinesSalmon",
+		"full_name": "rckt/perthmuseum-av13-msballantinessalmon"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/perthmuseum-av14-trade-industry.git",
+		"project_name": "Culture Perth & Kinross",
+		"repository_name": "PerthMuseum-AV14-Trade&Industry",
+		"full_name": "rckt/perthmuseum-av14-trade-industry"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/perthmuseum-av15-suffragettes.git",
+		"project_name": "Culture Perth & Kinross",
+		"repository_name": "PerthMuseum-AV15-Suffragettes",
+		"full_name": "rckt/perthmuseum-av15-suffragettes"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/perthmuseum-av19-studyofnature.git",
+		"project_name": "Culture Perth & Kinross",
+		"repository_name": "PerthMuseum-AV19-StudyOfNature",
+		"full_name": "rckt/perthmuseum-av19-studyofnature"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/perthmuseum-av21-23-diorama.git",
+		"project_name": "Culture Perth & Kinross",
+		"repository_name": "PerthMuseum-AV21-23-Diorama",
+		"full_name": "rckt/perthmuseum-av21-23-diorama"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/perthmuseum-baseskeleton.git",
+		"project_name": "Culture Perth & Kinross",
+		"repository_name": "PerthMuseum-BaseSkeleton",
+		"full_name": "rckt/perthmuseum-baseskeleton"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/perthmuseum-pr01.git",
+		"project_name": "Culture Perth & Kinross",
+		"repository_name": "PerthMuseum-PR01",
+		"full_name": "rckt/perthmuseum-pr01"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/pharo-schools.git",
+		"project_name": "PharoFoundation",
+		"repository_name": "pharo-schools",
+		"full_name": "rckt/pharo-schools"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/pharofoundationwebsite.git",
+		"project_name": "PharoFoundation",
+		"repository_name": "PharoFoundationWebsite",
+		"full_name": "rckt/pharofoundationwebsite"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/pimcore-asset-management.git",
+		"project_name": "WentworthWoodhouse",
+		"repository_name": "Pimcore Asset Management",
+		"full_name": "rckt/pimcore-asset-management"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/please-release-me.git",
+		"project_name": "Flying Object",
+		"repository_name": "Please Release Me",
+		"full_name": "rckt/please-release-me"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/police-map.git",
+		"project_name": "NationalPoliceChiefsCouncil",
+		"repository_name": "Police Map",
+		"full_name": "rckt/police-map"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/police-science-magazine.git",
+		"project_name": "NationalPoliceChiefsCouncil",
+		"repository_name": "Police Science Magazine",
+		"full_name": "rckt/police-science-magazine"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/pond-camera-v2.git",
+		"project_name": "London Zoo",
+		"repository_name": "pond-camera-v2",
+		"full_name": "rckt/pond-camera-v2"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/pond-camera.git",
+		"project_name": "London Zoo",
+		"repository_name": "pond-camera",
+		"full_name": "rckt/pond-camera"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/pond.git",
+		"project_name": "London Zoo",
+		"repository_name": "pond",
+		"full_name": "rckt/pond"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/post-london-zoo.git",
+		"project_name": "UnusualProjects",
+		"repository_name": "Post London Zoo",
+		"full_name": "rckt/post-london-zoo"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/post.git",
+		"project_name": "London Zoo",
+		"repository_name": "post",
+		"full_name": "rckt/post"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/project.git",
+		"project_name": "DreamSpeak",
+		"repository_name": "Project",
+		"full_name": "rckt/project"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/ra-int-b-sheltering-piercing.git",
+		"project_name": "Royal Armouries",
+		"repository_name": "ra-int-b-sheltering-piercing",
+		"full_name": "rckt/ra-int-b-sheltering-piercing"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/ra-int-i-battlefield-uniform.git",
+		"project_name": "Royal Armouries",
+		"repository_name": "ra-int-I-battlefield-uniform",
+		"full_name": "rckt/ra-int-i-battlefield-uniform"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/rcahmw-wordpress.git",
+		"project_name": "RCAHMW",
+		"repository_name": "rcahmw-wordpress",
+		"full_name": "rckt/rcahmw-wordpress"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/reach-sites.git",
+		"project_name": "Reach",
+		"repository_name": "reach-sites",
+		"full_name": "rckt/reach-sites"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/react-sketchpad-demo.git",
+		"project_name": "Culture Perth & Kinross",
+		"repository_name": "React Sketchpad Demo",
+		"full_name": "rckt/react-sketchpad-demo"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/resilience-first.git",
+		"project_name": "Resilience First",
+		"repository_name": "Resilience First",
+		"full_name": "rckt/resilience-first"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/resourcespace.git",
+		"project_name": "Drupal",
+		"repository_name": "ResourceSpace",
+		"full_name": "rckt/resourcespace"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/rivm-neurologyquiz.git",
+		"project_name": "DutchMinistryOfHealth",
+		"repository_name": "RIVM-NeurologyQuiz",
+		"full_name": "rckt/rivm-neurologyquiz"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/rivm-skinquiz.git",
+		"project_name": "DutchMinistryOfHealth",
+		"repository_name": "RIVM-SkinQuiz",
+		"full_name": "rckt/rivm-skinquiz"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/rocketeers-079.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "rocketeers-079",
+		"full_name": "rckt/rocketeers-079"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/satellite.git",
+		"project_name": "GlasgowElectron",
+		"repository_name": "Satellite",
+		"full_name": "rckt/satellite"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/science-museum-aws-cdk-kms-stack.git",
+		"project_name": "Science Museum",
+		"repository_name": "science-museum-aws-cdk-kms-stack",
+		"full_name": "rckt/science-museum-aws-cdk-kms-stack"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/science-museum-kms-v2.git",
+		"project_name": "Science Museum",
+		"repository_name": "Science Museum KMS (v2)",
+		"full_name": "rckt/science-museum-kms-v2"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/science-museum-sci-fi-app.git",
+		"project_name": "Science Museum",
+		"repository_name": "science-museum-sci-fi-app",
+		"full_name": "rckt/science-museum-sci-fi-app"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/science-museum-sci-fi-storytool.git",
+		"project_name": "Science Museum",
+		"repository_name": "science-museum-sci-fi-storytool",
+		"full_name": "rckt/science-museum-sci-fi-storytool"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/sciencemuseum-balancing-grid.git",
+		"project_name": "Science Museum",
+		"repository_name": "ScienceMuseum-Balancing-Grid",
+		"full_name": "rckt/sciencemuseum-balancing-grid"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/sciencemuseum-bcb.git",
+		"project_name": "Science Museum",
+		"repository_name": "ScienceMuseum-BCB",
+		"full_name": "rckt/sciencemuseum-bcb"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/sciencemuseum-kiosk-client.git",
+		"project_name": "Science Museum",
+		"repository_name": "ScienceMuseum-Kiosk-Client",
+		"full_name": "rckt/sciencemuseum-kiosk-client"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/sciencemuseum-kiosk-downloader.git",
+		"project_name": "Science Museum",
+		"repository_name": "ScienceMuseum-Kiosk-Downloader",
+		"full_name": "rckt/sciencemuseum-kiosk-downloader"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/sciencemuseum-kiosk-management-backup-client.git",
+		"project_name": "Science Museum",
+		"repository_name": "ScienceMuseum-Kiosk-Management-Backup-Client",
+		"full_name": "rckt/sciencemuseum-kiosk-management-backup-client"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/sciencemuseum-kiosk-management.git",
+		"project_name": "Science Museum",
+		"repository_name": "ScienceMuseum-Kiosk-Management",
+		"full_name": "rckt/sciencemuseum-kiosk-management"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/sciencemuseum-kiosk-packagemaker.git",
+		"project_name": "Science Museum",
+		"repository_name": "ScienceMuseum-Kiosk-PackageMaker",
+		"full_name": "rckt/sciencemuseum-kiosk-packagemaker"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/sciencemuseum-kiosks-interface.git",
+		"project_name": "Science Museum",
+		"repository_name": "ScienceMuseum-Kiosks-Interface",
+		"full_name": "rckt/sciencemuseum-kiosks-interface"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/sciencemuseum-scifi-cyborg.git",
+		"project_name": "Science Museum",
+		"repository_name": "ScienceMuseum-SciFi-Cyborg",
+		"full_name": "rckt/sciencemuseum-scifi-cyborg"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/sciencemuseum-scifi-drake-equation.git",
+		"project_name": "Science Museum",
+		"repository_name": "ScienceMuseum-SciFi-Drake-Equation",
+		"full_name": "rckt/sciencemuseum-scifi-drake-equation"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/sciencemuseum-scifi-story.git",
+		"project_name": "Science Museum",
+		"repository_name": "ScienceMuseum-SciFi-Story",
+		"full_name": "rckt/sciencemuseum-scifi-story"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/sciencemuseum-scifi-warp.git",
+		"project_name": "Science Museum",
+		"repository_name": "ScienceMuseum-SciFi-Warp",
+		"full_name": "rckt/sciencemuseum-scifi-warp"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/sciencemuseum-solar-scales.git",
+		"project_name": "Science Museum",
+		"repository_name": "ScienceMuseum-Solar-Scales",
+		"full_name": "rckt/sciencemuseum-solar-scales"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/sheffieldachesandpains-wordpress-website.git",
+		"project_name": "Sheffield Aches and Pains",
+		"repository_name": "SheffieldAchesAndPains-WordPress-Website",
+		"full_name": "rckt/sheffieldachesandpains-wordpress-website"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/shoreditchparkside.git",
+		"project_name": "ShoreditchParkside",
+		"repository_name": "ShoreditchParkside",
+		"full_name": "rckt/shoreditchparkside"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/shu-degreeshow.git",
+		"project_name": "Sheffield Hallam University",
+		"repository_name": "SHU-DegreeShow",
+		"full_name": "rckt/shu-degreeshow"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/simple-quiz.git",
+		"project_name": "Drupal",
+		"repository_name": "Simple Quiz",
+		"full_name": "rckt/simple-quiz"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/sirgarethedwardscancercharity.git",
+		"project_name": "CheekyMonkey",
+		"repository_name": "sirgarethedwardscancercharity",
+		"full_name": "rckt/sirgarethedwardscancercharity"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/site_updates_manager.git",
+		"project_name": "Drupal",
+		"repository_name": "site_updates_manager",
+		"full_name": "rckt/site_updates_manager"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/sky-cherry.git",
+		"project_name": "XR Stories",
+		"repository_name": "sky-cherry",
+		"full_name": "rckt/sky-cherry"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/smtil.git",
+		"project_name": "SMTIL",
+		"repository_name": "smtil",
+		"full_name": "rckt/smtil"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/sound-vision-interactives-fast-and-slow.git",
+		"project_name": "Science Museum",
+		"repository_name": "Sound + Vision Interactives: Fast and Slow",
+		"full_name": "rckt/sound-vision-interactives-fast-and-slow"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/stchristophersplace-wordpress.git",
+		"project_name": "StChristophersPlace",
+		"repository_name": "stchristophersplace-wordpress",
+		"full_name": "rckt/stchristophersplace-wordpress"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/steeple-011-config.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "steeple-011-config",
+		"full_name": "rckt/steeple-011-config"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tchc-bearfacts.git",
+		"project_name": "TCHC",
+		"repository_name": "TCHC-Bearfacts",
+		"full_name": "rckt/tchc-bearfacts"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tchc-shopify.git",
+		"project_name": "TCHC",
+		"repository_name": "TCHC-Shopify",
+		"full_name": "rckt/tchc-shopify"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/teaching-vacancies-statement-builder.git",
+		"project_name": "TeachingVacancies",
+		"repository_name": "Teaching Vacancies Statement Builder",
+		"full_name": "rckt/teaching-vacancies-statement-builder"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/techniquest-waterusage__travel.git",
+		"project_name": "TechniQuest",
+		"repository_name": "TechniQuest-WaterUsage__Travel",
+		"full_name": "rckt/techniquest-waterusage__travel"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/techniquest-waterusage.git",
+		"project_name": "TechniQuest",
+		"repository_name": "TechniQuest-WaterUsage",
+		"full_name": "rckt/techniquest-waterusage"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/the-deep-artificial-reefs.git",
+		"project_name": "UnusualProjects",
+		"repository_name": "The Deep - Artificial Reefs",
+		"full_name": "rckt/the-deep-artificial-reefs"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/thebailliegiffordprize.git",
+		"project_name": "Ballie Gifford",
+		"repository_name": "thebailliegiffordprize",
+		"full_name": "rckt/thebailliegiffordprize"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/theharris-av09-bookturner.git",
+		"project_name": "The Harris",
+		"repository_name": "TheHarris-AV09-BookTurner",
+		"full_name": "rckt/theharris-av09-bookturner"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tracktheball.git",
+		"project_name": "GlasgowElectron",
+		"repository_name": "TrackTheBall",
+		"full_name": "rckt/tracktheball"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-beinghuman.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "tuos-BeingHuman",
+		"full_name": "rckt/tuos-beinghuman"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-christmascard.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "TUoS-ChristmasCard",
+		"full_name": "rckt/tuos-christmascard"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-concerts-cmstemplates.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "TUoS-Concerts-CMSTemplates",
+		"full_name": "rckt/tuos-concerts-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-concerts-performancevenues-redesign.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "TUoS-Concerts-PerformanceVenues-Redesign",
+		"full_name": "rckt/tuos-concerts-performancevenues-redesign"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-events.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "TUoS-Events",
+		"full_name": "rckt/tuos-events"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-explorescienceandengineering-cmstemplates.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "TUoS-ExploreScienceAndEngineering-CMSTemplates",
+		"full_name": "rckt/tuos-explorescienceandengineering-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-festivalofsocialscience-cmstemplates.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "TUoS-FestivalOfSocialScience-CMSTemplates",
+		"full_name": "rckt/tuos-festivalofsocialscience-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-fidelityintegration.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "TUoS-FidelityIntegration",
+		"full_name": "rckt/tuos-fidelityintegration"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-futurcade.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "TUoS-Futurcade",
+		"full_name": "rckt/tuos-futurcade"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-futurecade.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "tuos-futurecade",
+		"full_name": "rckt/tuos-futurecade"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-futurecade2022-overthehillunderthecovers.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "TUoS-Futurecade2022-OverTheHillUnderTheCovers",
+		"full_name": "rckt/tuos-futurecade2022-overthehillunderthecovers"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-futurecade2022-ownershipandthepriceofempire.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "TUoS-Futurecade2022-OwnershipAndThePriceOfEmpire",
+		"full_name": "rckt/tuos-futurecade2022-ownershipandthepriceofempire"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-futurecade2022-reactionator.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "TUoS-Futurecade2022-Reactionator",
+		"full_name": "rckt/tuos-futurecade2022-reactionator"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-horizon2020-cmstemplates.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "TUoS-Horizon2020-CMSTemplates",
+		"full_name": "rckt/tuos-horizon2020-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-humanactivism.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "TUoS-HumanActivism",
+		"full_name": "rckt/tuos-humanactivism"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-juice-activitymanager.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "TUoS-Juice-ActivityManager",
+		"full_name": "rckt/tuos-juice-activitymanager"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-malt.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "TUoS - MALT",
+		"full_name": "rckt/tuos-malt"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-managementschool-static.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "TUoS-ManagementSchool-Static",
+		"full_name": "rckt/tuos-managementschool-static"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-managementschoolhr-cmstemplates.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "TUoS-ManagementSchoolHR-CMSTemplates",
+		"full_name": "rckt/tuos-managementschoolhr-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-microgendatabase.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "TUoS-MicrogenDatabase",
+		"full_name": "rckt/tuos-microgendatabase"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-offtheshelf.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "TUoS-OffTheShelf",
+		"full_name": "rckt/tuos-offtheshelf"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-reactionator-online.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "TUoS-Reactionator-Online",
+		"full_name": "rckt/tuos-reactionator-online"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-systematicreviewlution.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "TUoS-SystematicReviewlution",
+		"full_name": "rckt/tuos-systematicreviewlution"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-unionshopify.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "TUoS-UnionShopify",
+		"full_name": "rckt/tuos-unionshopify"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-womeninengineering-cmstemplates.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "TUoS-WomenInEngineering-CMSTemplates",
+		"full_name": "rckt/tuos-womeninengineering-cmstemplates"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/weather.git",
+		"project_name": "Paisley Museum",
+		"repository_name": "weather",
+		"full_name": "rckt/weather"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/welshlambandbeef.git",
+		"project_name": "HCC",
+		"repository_name": "welshlambandbeef",
+		"full_name": "rckt/welshlambandbeef"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/wentworthwoodhouse-asset-manager.git",
+		"project_name": "WentworthWoodhouse",
+		"repository_name": "WentworthWoodhouse-Asset-Manager",
+		"full_name": "rckt/wentworthwoodhouse-asset-manager"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/wentworthwoodhouse-virtual-tours.git",
+		"project_name": "WentworthWoodhouse",
+		"repository_name": "WentworthWoodhouse-Virtual-Tours",
+		"full_name": "rckt/wentworthwoodhouse-virtual-tours"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/wentworthwoodhouse-website.git",
+		"project_name": "WentworthWoodhouse",
+		"repository_name": "WentworthWoodhouse-Website",
+		"full_name": "rckt/wentworthwoodhouse-website"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/youth-music-aws-deploy.git",
+		"project_name": "Youth Music",
+		"repository_name": "youth-music-aws-deploy",
+		"full_name": "rckt/youth-music-aws-deploy"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-eventsplayer-client.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "tuos-eventsplayer-client",
+		"full_name": "rckt/tuos-eventsplayer-client"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-eventsplayer-cms.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "TUoS-EventsPlayer-CMS",
+		"full_name": "rckt/tuos-eventsplayer-cms"
+	},
+	{
+		"clone_url": "git@bitbucket.org:rckt/tuos-eventsplayer-stack.git",
+		"project_name": "The University of Sheffield",
+		"repository_name": "tuos-eventsplayer-stack",
+		"full_name": "rckt/tuos-eventsplayer-stack"
+	}
+]
